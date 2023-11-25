@@ -1,7 +1,7 @@
 # RoutinizerApp# RoutinizerApp
 ### :one: Introduction
 Routinizer App is an Android app created with Java in Android Studio. This app simplifies daily life by offering timers, to-do lists, and reminders. Powered by Firebase for real-time data storage, Routinizer helps users organize tasks, build habits, and optimize their routines. Stay productive and reach your goals effortlessly with Routinizer.
-Hardware Specification<br>
+###2️⃣:Hardware Specification<br>
 ✔ Processor - Intel Pentium IV.
 ✔ Processor Speed – 1.40 GHz.
 ✔ RAM – 2 GB or above.
