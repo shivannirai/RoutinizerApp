@@ -53,10 +53,10 @@ private void showFragment(Fragment fragment) {
 }
 
  ````
-### :five: Conclusion
+### :five: Output
 
-<img src="https://github.com/shivannirai/RoutinizerApp/assets/116882556/ce399072-1df8-4151-a0ab-56fcecc227be" alt="WhatsApp Image" width="200">
 <img src="https://github.com/shivannirai/RoutinizerApp/assets/116882556/402e08a6-dfdc-4cc1-82d7-ed79f25e194f" alt="WhatsApp Image" width="200">
+<img src="https://github.com/shivannirai/RoutinizerApp/assets/116882556/ce399072-1df8-4151-a0ab-56fcecc227be" alt="WhatsApp Image" width="190">
 <img src="https://github.com/shivannirai/RoutinizerApp/assets/116882556/06d2fcce-717d-4dc2-b1fc-c88acc3b483d" alt="WhatsApp Image" width="200">
 
  
