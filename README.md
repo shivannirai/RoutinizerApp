@@ -1,4 +1,4 @@
-# RoutinizerApp# RoutinizerApp
+# RoutinizerApp
 ### :one: Introduction
 Routinizer App is an Android app created with Java in Android Studio. This app simplifies daily life by offering timers, to-do lists, and reminders. Powered by Firebase for real-time data storage, Routinizer helps users organize tasks, build habits, and optimize their routines. Stay productive and reach your goals effortlessly with Routinizer.
 ### :two: Specifications
