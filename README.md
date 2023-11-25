@@ -7,6 +7,7 @@ Hardware Specifications:<br>
 ✔ Processor Speed – 1.40 GHz.<br>
 ✔ RAM – 2 GB or above.<br>
 ✔ Monitor resolution - A color monitor with a minimum resolution of 1000*700 <br>
+
 Software Specifications:<br>
 ✔ Operating System: Windows / LINUX / any operating system that supports a browser.<br>
 ✔ Language used: JAVA<br>
