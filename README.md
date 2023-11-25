@@ -18,39 +18,40 @@ Software Specifications:<br>
   <img src="https://github.com/shivannirai/RoutinizerApp/blob/master/achitecturediagram.png" width=700>
  </p>
 
-### :four: Pseudocode of LZW algorithm
+### :four: Pseudocode of Routinizer app
 Main page with Navigation Bar : 
 ````
  Mainpagewithnavbar
 protected void onCreate(Bundle savedInstanceState) {
- super.onCreate(savedInstanceState);
- setContentView(R.layout.activity_main_page_with_nav_bar);
- bnv = findViewById(R.id.bottomNavBar);
- fragmentManager = getSupportFragmentManager();
- showFragment(new ForyouFragment());
- bnv.setOnItemSelectedListener(item -> {
- if(item.getItemId()==R.id.forYou) {
- showFragment(new ForyouFragment());
- return true;
- } else if (item.getItemId()==R.id.task) {
- showFragment(new MainPageFragment());
- return true;
- } else if (item.getItemId()==R.id.timerMenu) {
- showFragment(new TimerFragment());
- return true;
- } else if (item.getItemId()==R.id.logoutMenu) {
- finish();
- return true;
- }
- return false;
- });
- }
- private void showFragment(Fragment fragment) {
- fragmentManager.beginTransaction()
- .replace(R.id.fragmentContainerView, fragment)
- .commit();
- }
+    super.onCreate(savedInstanceState);
+    setContentView(R.layout.activity_main_page_with_nav_bar);
+    bnv = findViewById(R.id.bottomNavBar);
+    fragmentManager = getSupportFragmentManager();
+    showFragment(new ForyouFragment());
+    bnv.setOnItemSelectedListener(item -> {
+        if (item.getItemId() == R.id.forYou) {
+            showFragment(new ForyouFragment());
+            return true;
+        } else if (item.getItemId() == R.id.task) {
+            showFragment(new MainPageFragment());
+            return true;
+        } else if (item.getItemId() == R.id.timerMenu) {
+            showFragment(new TimerFragment());
+            return true;
+        } else if (item.getItemId() == R.id.logoutMenu) {
+            finish();
+            return true;
+        }
+        return false;
+    });
 }
+
+private void showFragment(Fragment fragment) {
+    fragmentManager.beginTransaction()
+            .replace(R.id.fragmentContainerView, fragment)
+            .commit();
+}
+
  ````
 
 
