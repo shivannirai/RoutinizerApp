@@ -14,9 +14,10 @@ Software Specifications:<br>
 ✔ Database: Firebase
 
 ### :three: Architecture Diagram
+<img src="https://github.com/shivannirai/RoutinizerApp/assets/116882556/53413874-d5f5-4d28-8beb-d9342b9bca29" alt="Architecture Diagram" width="500">
 
-  <img src="https://github.com/shivannirai/RoutinizerApp/blob/master/achitecturediagram.png" width=700>
- </p>
+
+
 
 ### :four: Pseudocode of Routinizer app
 Main page with Navigation Bar : 
