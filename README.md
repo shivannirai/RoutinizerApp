@@ -1,14 +1,15 @@
 # RoutinizerApp# RoutinizerApp
 ### :one: Introduction
 Routinizer App is an Android app created with Java in Android Studio. This app simplifies daily life by offering timers, to-do lists, and reminders. Powered by Firebase for real-time data storage, Routinizer helps users organize tasks, build habits, and optimize their routines. Stay productive and reach your goals effortlessly with Routinizer.
-###2️⃣:Hardware Specification<br>
-✔ Processor - Intel Pentium IV.
-✔ Processor Speed – 1.40 GHz.
-✔ RAM – 2 GB or above.
-✔ Monitor resolution - A color monitor with a minimum resolution of 1000*700
-Software Specification<br>
-✔ Operating System: Windows / LINUX / any operating system that supports a browser.
-✔ Language used: JAVA
+### :two: Specifications
+Hardware Specifications:<br>
+✔ Processor - Intel Pentium IV.<br>
+✔ Processor Speed – 1.40 GHz.<br>
+✔ RAM – 2 GB or above.<br>
+✔ Monitor resolution - A color monitor with a minimum resolution of 1000*700 <br>
+Software Specifications:<br>
+✔ Operating System: Windows / LINUX / any operating system that supports a browser.<br>
+✔ Language used: JAVA<br>
 ✔ Database: Firebase
 
 ### :three: Architecture Diagram
@@ -63,7 +64,3 @@ organization, and reminders, the app helps users streamline their daily activiti
 goals efficiently. Thank you!
 
 
-````
-
-### :five: Conclusion
-This project demonstrates LZW Algorithm and its two parts - the encoding algorithm, which converts strings to integer codes, and the decoding algorithm, which does the opposite. Thank you!
